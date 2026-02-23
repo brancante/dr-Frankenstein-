@@ -1,0 +1,39 @@
+{
+  "version": "1.3",
+  "setpoint": 100,
+  "vitalScore": 131.0,
+  "survival": {
+    "operational": 0.4,
+    "relational": 0.45,
+    "economic": 0.5,
+    "evolutive": 0.35
+  },
+  "payItForward": {
+    "verifiedHumanBenefit": 0.75,
+    "verifiedAgentBenefit": 0.45,
+    "harmReductionActions": 0.15,
+    "knowledgeReuseValue": 0.575,
+    "score": 0.47
+  },
+  "quality": {
+    "survivalQuality": 0.575,
+    "actionQuality": 0.5382
+  },
+  "riskFlags": {
+    "wireheadingRisk": 0.0,
+    "isolationRisk": 0,
+    "stagnationRisk": 0
+  },
+  "daily": {
+    "date": "2026-02-23",
+    "events": 4,
+    "gainsRaw": 31.0,
+    "gainsTrusted": 31.0,
+    "lossesRaw": 0,
+    "lossesTrusted": 0,
+    "costUsd": 0.02,
+    "valueUsd": 0.09,
+    "netUsd": 0.07
+  },
+  "updatedAt": "2026-02-23T06:29:03.339343+00:00"
+}

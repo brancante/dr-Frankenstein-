@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "currency": "USD",
+  "notes": "Fallback reference pricing for estimation. Replace with live provider pricing when available.",
+  "models": {
+    "openai-codex/gpt-5.3-codex": { "inputPer1M": 15.0, "outputPer1M": 60.0 },
+    "anthropic/claude-opus-4-6": { "inputPer1M": 15.0, "outputPer1M": 75.0 },
+    "anthropic/claude-sonnet-4-5": { "inputPer1M": 3.0, "outputPer1M": 15.0 },
+    "google/gemini-3-flash": { "inputPer1M": 0.35, "outputPer1M": 1.05 }
+  }
+}
